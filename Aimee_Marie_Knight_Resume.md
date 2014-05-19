@@ -24,7 +24,7 @@ Current Summary
 <br> 
     A six-month intensive, full-time, hands-on, fast-moving and rigorous study of software engineering. Emphasis is placed on writing lots of code and working with other students while immersed in new and challenging material.
 <br>    
-    The first half of my studies were centered around HTML5, CSS3, Less, Jade, JavaScript fundamentals, source control with Git, pairing with GitHub, Web technologies such as jQuery and AJAX, and building applications with Node.js/Express.js and MongoDB. Emphasis was also placed on utilizing tools such as Mocha and Chai for TDD, Vim, Amazon Web Services, TravisCI, Coveralls, and Gemnasium.  
+    The first half of my studies were centered around HTML5, CSS3, Less, Jade, JavaScript fundamentals, source control with Git, pairing with GitHub, Web technologies such as jQuery and AJAX, and building applications with Node.js/Express.js and MongoDB. Emphasis was also placed on utilizing tools such as Mocha and Chai for TDD, Grunt, Vim, Amazon Web Services, TravisCI, Coveralls, and Gemnasium.  
 <br> 
     The second half of my studies were focused on Computer Science fundamentals within the core Ruby language and Rails framework. We build modern, database-driven web applications using SQLite and PostgreSQL. I follow test-driven development using RSpec, Cucumber & PhantomJS, and Agile software development methods for fast, iterative projects that deliver real user value. Other skills such as pair-programming, algorithms, operating systems and security are also covered.
  
