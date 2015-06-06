@@ -22,7 +22,7 @@ Current Summary
 
 *   **Message Systems** (Columbia, MD)
 <br>
-    **Full-Stack Software Engineer - 2015-Present**
+    **Full-Stack Software Engineer, 2015-Present**
 <br>
 As a full-stack software engineer at Message Systems, I've worked in rapidly paced Scrum and Kanban environments building features for the core on-premise solution, and new cloud offering, SparkPost. While working with the team to continuously build out our platform, I've been especially focused on migrating our existing code to ES6, the latest versions of Angular, and in maintaing our end to end front end testing infrastructure.
 
