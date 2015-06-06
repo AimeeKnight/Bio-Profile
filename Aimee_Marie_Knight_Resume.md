@@ -126,13 +126,20 @@ Education
 Skills
 ------
 
-*   HTML5, Jade & Haml
+*  HTML5, Jade & Haml
 *	CSS3, Less & Sass
-*	Javascript, jQuery & Angular.js
-*   Ruby/Rails & Node.js/Express.js
-*   SQLite, PostgreSQL & MongoDB
-*   Vim
-*   Git
+*	Javascript (Including ES6)
+*	jQuery
+*	Angular.js
+*  Ruby/Rails
+*  Rspec
+*  Node.js/Express.js
+*  Mocha
+*  Selenium
+*  SQLite, PostgreSQL & MongoDB
+*  Grunt & Gulp
+*  Vim
+*  Git
 *	Wordpress Theme Development
 *	Basic Adobe Photoshop and InDesign
 *	Microsoft Office Suite
