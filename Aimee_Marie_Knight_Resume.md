@@ -25,21 +25,22 @@ Current Summary
 *   **Message Systems** (Columbia, MD)
 <br>
     **Full-Stack Software Engineer, 2015-Present**
-<br>
-As a full-stack software engineer at Message Systems, I've worked in rapidly paced Scrum and Kanban environments building features for the core on-premise solution, and new cloud offering, SparkPost. While working with the team to continuously build out our platform, I've been especially focused on migrating our existing code to ES6, the latest versions of Angular, and in maintaing our end to end front end testing infrastructure.
+
+As a full-stack software engineer at Message Systems, I've worked in rapidly paced Scrum and Kanban environments building features for the core on-premise solution, and new cloud offering, SparkPost. While working with the team to continuously build out our platform, I've been especially focused on migrating our existing code to ES6, the latest versions of Angular, and in maintaing our end to end front end testing infrastructure.  
 
 Strengths include:
 
-- Test-driven development
-- Designing/Writing Front End UI's with Angular.js
-- Designing/Writing APIs with Node.js
-- Staying up to date with the latest technologies and libraries
+*  Test-driven development
+*  Designing/Writing Front End UI's with Angular.js
+*  Designing/Writing APIs with Node.js
+*  Staying up to date with the latest technologies and libraries
 
+***
 *   **JavaScript Jabber & Angular Air**
 <br>
     **Panelist, 2015-Present**
-<br>
-- Interview community leaders about various open source projects, and other popular JavaScript and Angular topics.
+
+   - Interview community leaders about various open source projects, and other popular JavaScript and Angular topics.
 
 ***
 Experience
@@ -48,13 +49,17 @@ Experience
 *   **Nashville Software School** (Nashville, TN)
 <br>
     **Apprentice - Advanced Alpha Group, 2014-2015**
-<br>
-Completed a six-month intensive, full-time, hands-on, fast-moving and rigorous study of software engineering. Emphasis was placed on building applications, and working with other students while immersed in new and challenging material. 
-<br>
-The first half of the curriculum was centered around HTML5, CSS3, Less, Jade, JavaScript fundamentals, source control with Git, pairing with GitHub, Web technologies such as jQuery and AJAX, and building applications with Node.js, Express.js and MongoDB. Emphasis was also placed on utilizing tools such as Mocha and Chai for TDD, Grunt, Vim, Amazon Web Services, TravisCI, Coveralls, and Gemnasium.
-<br>
-The second half of the curriculum focused on Computer Science fundamentals within the core Ruby language and Rails framework. We built modern, database-driven web applications using SQLite and PostgreSQL. I followed test-driven development using RSpec, PhantomJS, and Agile software development methods for fast, iterative projects that delivered real user value. Other skills such as pair-programming, algorithms, operating systems and security were also included.
 
+Completed a six-month intensive, full-time, hands-on, fast-moving and rigorous study of software engineering. Emphasis was placed on building database driven applications, and working with other students while immersed in new and challenging material.  
+
+Highlights include
+*  Computer Science fundamentals, algorithms, operating systems and security
+*  test-driven development with Rspec & Mocha
+*  Ruby * Ruby on Rails with SQLite and PostgreSQL
+*  JavaScript & Node.js with MongoDB
+*  Agile software development & pair-programming
+
+***
 *   **Boost by Design LLC.** (Richmond Hill, GA)
 <br>
     **Junior Web Developer, 2013-2014**
@@ -128,6 +133,8 @@ Skills
 *  Grunt & Gulp
 *  Vim
 *  Git
+*  Amazon Web Services
+*  TravisCI, Coveralls, & Gemnasium
 *	Wordpress Theme Development
 *	Basic Adobe Photoshop and InDesign
 *	Microsoft Office Suite
