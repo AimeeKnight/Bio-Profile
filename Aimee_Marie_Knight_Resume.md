@@ -52,7 +52,7 @@ Experience
 
 Completed a six-month intensive, full-time, hands-on, fast-moving and rigorous study of software engineering. Emphasis was placed on building database driven applications, and working with other students while immersed in new and challenging material.  
 
-Highlights include
+Highlights include: 
 *  Computer Science fundamentals, algorithms, operating systems and security
 *  test-driven development with Rspec & Mocha
 *  Ruby * Ruby on Rails with SQLite and PostgreSQL
@@ -137,9 +137,7 @@ Skills
 *  TravisCI, Coveralls, & Gemnasium
 *	Wordpress Theme Development
 *	Basic Adobe Photoshop and InDesign
-*	Microsoft Office Suite
 *	Expression Engine and Wordpress CMS
-*	Workamajig, Clients and Profits, and Salesforce CRM
 
 ***
 References
