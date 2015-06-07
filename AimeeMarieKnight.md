@@ -121,14 +121,11 @@ Skills
 
 *  HTML5, Jade & Haml
 *	CSS3, Less & Sass
-*	Javascript (Including ES6)
-*	jQuery
+*	Javascript (Including ES6) & jQuery
 *	Angular.js
-*  Ruby/Rails
-*  Rspec
-*  Node.js/Express.js
-*  Mocha
-*  Selenium
+*  Ruby/Rails with Rspec
+*  Node.js/Express.js with Mocha
+*  Protractor & Selenium
 *  SQLite, PostgreSQL & MongoDB
 *  Grunt & Gulp
 *  Vim
@@ -137,7 +134,6 @@ Skills
 *  TravisCI, Coveralls, & Gemnasium
 *	Wordpress Theme Development
 *	Basic Adobe Photoshop and InDesign
-*	Expression Engine and Wordpress CMS
 
 ***
 References
