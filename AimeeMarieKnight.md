@@ -14,7 +14,7 @@ AimeeMarieKnight.com
 ***
 Objective
 ---------
-I'm passionately curious about emerging technology, while solidly focused on underlying concepts and proven design patterns. As a former professional figure skater, I'm extremely driven, holding myself and the software I write to the highest standards. I enjoy staying active in the JavaScript community through speaking on podcasts, and helping to organize meetups and conferences.
+I'm passionately curious about emerging technology, while solidly focused on fundamental principles. As a former professional figure skater, I'm extremely driven, holding myself and the software I write to the highest standards. I enjoy staying active in the JavaScript community through speaking on podcasts, and helping organize meetups and conferences.
 
 While much of the code I write for my employer is private, my open source software projects can be found on GitHub.
 
