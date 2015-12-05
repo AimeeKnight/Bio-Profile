@@ -1,17 +1,15 @@
 ##Aimee Knight
 
-Full Stack Engineer
-
-===============
-
+**Full Stack Engineer**
+<br>
 863 Watson Street
-
+<br>
 Baltimore, MD 21202
-
+<br>
 (205) 913-4533
-
+<br>
 AimeeMarieKnight@gmail.com
-
+<br>
 [AimeeMarieKnight.com](http://aimeemarieknight.com/)
 
 ***
@@ -25,9 +23,9 @@ While much of the code I write for my employer is private, my open source softwa
 Current Summary
 ---------------
 
-**Message Systems** (Columbia, MD)
-
-**Full-Stack Software Engineer, 2015-Present**
+*   **Message Systems** (Columbia, MD)
+<br>
+    **Full-Stack Software Engineer, 2015-Present**
 
 As a full-stack software engineer at Message Systems, I've worked in rapidly paced Scrum and Kanban environments building features for the core on-premise solution, and new cloud offering, [SparkPost](https://www.sparkpost.com/). While working with the team, I've been especially focused on migrating our existing code to ES6, preparing our UI for Angular 2, and in building out REST APIs in Node.js.
 
@@ -40,9 +38,9 @@ Strengths include:
 
 ***
 
-**JavaScript Jabber & Angular Air**
-
-**Panelist, 2015-Present**
+*   **JavaScript Jabber & Angular Air**
+<br>
+    **Panelist, 2015-Present**
 
 Interview community leaders about various open source projects, and other popular JavaScript and Angular topics.
 
@@ -50,9 +48,9 @@ Interview community leaders about various open source projects, and other popula
 Experience
 ---------------
 
-**Nashville Software School** (Nashville, TN)
-
-**Apprentice - Advanced Alpha Group, 2014-2015**
+*   **Nashville Software School** (Nashville, TN)
+<br>
+    **Apprentice - Advanced Alpha Group, 2014-2015**
 
 Completed a six-month intensive, full-time, hands-on, fast-moving and rigorous study of software engineering. Emphasis was placed on building database driven applications, and working with other students while immersed in new and challenging material.  
 
@@ -65,49 +63,49 @@ Highlights include:
 
 ***
 
-**Boost by Design LLC.** (Richmond Hill, GA)
+*   **Boost by Design LLC.** (Richmond Hill, GA)
+<br>
+    **Junior Web Developer, 2013-2014**
 
-**Junior Web Developer, 2013-2014**
-
-- Implement theme modifications for cross-browser support from completed Photoshop design files while maintaining W3C compliance.
-- Utilize a mobile first design approach, implementing media queries for all standard breakpoints.
-- Address issues with broken themes as well as hosting account configuration.
-- Educate clients on Wordpress CMS, SEO, and accessibility best practices.
-- Work within tight deadlines to satisfy urgent client requests.
-
-***
-
-**Fast Forward Video Inc.** (Irvine, CA)
-
-**Sales and Marketing Administrator, 2012**
-
-- Manage global customer base including and serve as primary Salesfore (CRM) administrator.
+    - Implement theme modifications for cross-browser support from completed Photoshop design files while maintaining W3C compliance.
+    - Utilize a mobile first design approach, implementing media queries for all standard breakpoints.
+    - Address issues with broken themes as well as hosting account configuration.
+    - Educate clients on Wordpress CMS, SEO, and accessibility best practices.
+    - Work within tight deadlines to satisfy urgent client requests.
 
 ***
 
-**Restore Therapy Services Ltd. & Comfort Care Home Health and Hospice LLC.** (Birmingham, AL)
+*   **Fast Forward Video Inc.** (Irvine, CA)
+<br>
+    **Sales and Marketing Administrator, 2012**
 
-**Business Development Coordinator, 2009-2010**
-
-- Responsible for overseeing production Web Sites, SEO, and additional marketing material.
-- Work with prospects, CEO and Director of Business Development to implement new contracts.
-
-***
-
-**FitzMartin Inc.** (Birmingham, AL)
-
-**Project Manager/Junior Account Manager, 2007-2009**
-
--  Collaborate with Software Developers, Creatives, and Account Executives to ensure projects deadlines are met on time and on budget.
-- Set up production schedules for all projects in order to maintain critical path management for an average of 110 jobs per week.
+    - Manage global customer base including and serve as primary Salesfore (CRM) administrator.
 
 ***
 
-**City of Pelham - Pelham Civic Complex** (Pelham, AL)
+*   **Restore Therapy Services Ltd. & Comfort Care Home Health and Hospice LLC.** (Birmingham, AL)
+<br>
+    **Business Development Coordinator, 2009-2010**
 
-**Private Figure Skating Coach, 2000-2007**
+    - Responsible for overseeing production Web Sites, SEO, and additional marketing material.
+    - Work with prospects, CEO and Director of Business Development to implement new contracts.
 
--  Instruct all ages and all levels in various disciplines of Figure Skating.
+***
+
+*   **FitzMartin Inc.** (Birmingham, AL)
+<br>
+    **Project Manager/Junior Account Manager, 2007-2009**
+
+    - Collaborate with Software Developers, Creatives, and Account Executives to ensure projects deadlines are met on time and on budget.
+    - Set up production schedules for all projects in order to maintain critical path management for an average of 110 jobs per week.
+
+***
+
+*   **City of Pelham - Pelham Civic Complex** (Pelham, AL)
+<br>
+    **Private Figure Skating Coach, 2000-2007**
+
+    - Instruct all ages and all levels in various disciplines of Figure Skating.
 
 ***
 Education
