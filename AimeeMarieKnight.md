@@ -79,7 +79,7 @@ Highlights include:
 <br>
     **Sales and Marketing Administrator, 2012**
 
-    - Manage global customer base including and serve as primary Salesfore (CRM) administrator.
+   Manage global customer base including and serve as primary Salesfore (CRM) administrator.
 
 ***
 
