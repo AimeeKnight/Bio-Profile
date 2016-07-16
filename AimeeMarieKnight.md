@@ -23,16 +23,16 @@ While much of the code I write for my employer is private, my open source softwa
 Current Summary
 ---------------
 
-*   **Message Systems** (Columbia, MD)
+*   **Kuali** (Lehi, UT/Remote)
 <br>
-    **Full-Stack Software Engineer, 2015-Present**
+    **Full-Stack Software Engineer, 2016-Present**
 
-As a full-stack software engineer at Message Systems, I've worked in rapidly paced Scrum and Kanban environments building features for the core on-premise solution, and new cloud offering, [SparkPost](https://www.sparkpost.com/). While working with the team, I've been especially focused on migrating our existing code to ES6, preparing our UI for Angular 2, and in building out REST APIs in Node.js.
+As a full-stack software engineer at Kuali, I've worked in a rapidly paced environment building out features for our higher education curriculum management system using React.js, Redux, and Node.js with Express and Koa. While at Kuali, I have been especially focused on increasing our products reliability and stability by helping to drive adoption of front end test with Enzyme and increasing our back end test coverage.
 
 Strengths include:
 
 *  Test-driven development
-*  Designing/Writing Front End UI's with Angular.js
+*  Designing/Writing Front End UI's with Angular.js and React.js
 *  Designing/Writing APIs with Node.js
 *  Staying up to date with the latest technologies and libraries
 
@@ -47,6 +47,17 @@ Interview community leaders about various open source projects, and other popula
 ***
 Experience
 ---------------
+
+*   **Message Systems** (Columbia, MD)
+<br>
+    **Full-Stack Software Engineer, 2014-2016**
+
+   - Built out features for the core on-premise solution, and cloud offering, [SparkPost](https://www.sparkpost.com/) utilizing Angular.js and Node.js. 
+   - Led migration to ES6 and the official AngularJS style guide.
+   - Preparred UI for Angular 2.
+   - Maintained 100% front end and back end test coverage.
+
+***
 
 *   **Nashville Software School** (Nashville, TN)
 <br>
@@ -79,7 +90,7 @@ Highlights include:
 <br>
     **Sales and Marketing Administrator, 2012**
 
-   Manage global customer base including and serve as primary Salesfore (CRM) administrator.
+  - Manage global customer base including and serve as primary Salesfore (CRM) administrator.
 
 ***
 
@@ -129,7 +140,7 @@ Skills
 *  HTML5, Jade & Haml
 *	CSS3, Less & Sass
 *	Javascript (Including ES6) & jQuery
-*	Angular.js
+*	Angular.js, React.js & Redux
 *  Ruby/Rails with Rspec
 *  Node.js/Express.js with Mocha
 *  Protractor & Selenium
