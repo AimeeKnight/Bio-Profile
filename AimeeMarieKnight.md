@@ -127,7 +127,7 @@ Education
 
 
 *   **University of Massachusetts at Lowell**
-    Bachelor or Science in Information Technology, 2012-Present
+    Bachelor of Science in Information Technology, 2012-Present
 
 
 *   **University of Alabama at Birmingham  - Summa Cum Laude**
