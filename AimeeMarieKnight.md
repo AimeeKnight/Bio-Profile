@@ -2,9 +2,9 @@
 
 **Full Stack Engineer**
 <br>
-863 Watson Street
+170 Plum Nelly Circle
 <br>
-Baltimore, MD 21202
+Brentwood, TN 37027
 <br>
 (205) 913-4533
 <br>
@@ -23,18 +23,19 @@ While much of the code I write for my employer is private, my open source softwa
 Current Summary
 ---------------
 
-*   **Kuali** (Lehi, UT/Remote)
+*   **DramaFever** (NYC, NY/Remote)
 <br>
-    **Full-Stack Software Engineer, 2016-Present**
+    **Front End Software Engineer, 2016-Present**
 
-As a full-stack software engineer at Kuali, I've worked in a rapidly paced environment building out features for our higher education curriculum management system using React.js, Redux, and Node.js with Express and Koa. While at Kuali, I have been especially focused on increasing our products reliability and stability by helping to drive adoption of front end test with Enzyme and increasing our back end test coverage.
+As a front end software engineer at DramaFever, I've worked in a rapidly paced environment building out features for (Boomerang)[https://www.boomerang.com/], (Warner Archive)[https://www.warnerarchive.com/], (Moodica)[https://www.moodica.com/], and (DramaFever)[https://www.dramafever.com/] using Angular.js and Django. While at DramaFever, I have been especially focused on preparring our code base for the lastest version of Angular by following a component model, and driving adoption of the lastest version of JavaScript by leading weekly internal training sessions.
 
 Strengths include:
 
 *  Test-driven development
-*  Designing/Writing Front End UI's with Angular.js and React.js
+*  Designing/Writing Front End UI's with Angular.js
 *  Designing/Writing APIs with Node.js
 *  Staying up to date with the latest technologies and libraries
+*  Mentoring Junior Developers
 
 ***
 
@@ -47,6 +48,16 @@ Interview community leaders about various open source projects, and other popula
 ***
 Experience
 ---------------
+
+*   **Kuali** (Lehi, UT/Remote)
+<br>
+    **Full-Stack Software Engineer, 2016**
+
+   - Built out features for a higher education curriculum management system using React.js, Redux, and Node.js with Express and Koa.
+   - Increasing products reliability and stability by helping to drive adoption of front end test with Enzyme and increasing back end test coverage.
+   - Helped implement the latest technologies within code base including WebPack, Flow, ES6 and ES7. 
+
+***
 
 *   **Message Systems** (Columbia, MD)
 <br>
@@ -67,7 +78,7 @@ Completed a six-month intensive, full-time, hands-on, fast-moving and rigorous s
 
 Highlights include: 
 *  Computer Science fundamentals, algorithms, operating systems and security
-*  test-driven development with Rspec & Mocha
+*  Test-driven development with Rspec & Mocha
 *  Ruby * Ruby on Rails with SQLite and PostgreSQL
 *  JavaScript & Node.js with MongoDB
 *  Agile software development & pair-programming
@@ -138,20 +149,21 @@ Skills
 ------
 
 *  HTML5, Jade & Haml
-*	CSS3, Less & Sass
-*	Javascript (Including ES6) & jQuery
-*	Angular.js, React.js & Redux
+*  CSS3, Less & Sass
+*  Javascript (Including ES6) & jQuery
+*  Angular.js, React.js & Redux
 *  Ruby/Rails with Rspec
+*  Django
 *  Node.js/Express.js with Mocha
 *  Protractor & Selenium
-*  SQLite, PostgreSQL & MongoDB
+*  SQLite, PostgreSQL, MongoDB, RethinkDB, ElasticSearch
 *  Grunt & Gulp
 *  Vim
 *  Git
 *  Amazon Web Services
 *  TravisCI, Coveralls, & Gemnasium
-*	Wordpress Theme Development
-*	Basic Adobe Photoshop and InDesign
+*  Wordpress Theme Development
+*  Basic Adobe Photoshop and InDesign
 
 ***
 References
