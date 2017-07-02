@@ -18,7 +18,7 @@ Current Summary
 ### **DramaFever** (NYC, NY/Remote)
 #### **Front End Software Engineer, 2016-Present**
 
-As a front end software engineer at DramaFever, I've worked in a rapidly paced environment building out features for [Boomerang](https://www.boomerang.com/), [Warner Archive](https://www.warnerarchive.com/), [Moodica](https://www.moodica.com/), and [DramaFever](https://www.dramafever.com/) using Angular.js and Django. While at DramaFever, I have been especially focused on preparring our code base for the lastest version of Angular by following a component model, and driving adoption of the lastest version of JavaScript by leading weekly internal training sessions.
+As a front end software engineer at DramaFever, I've worked in a rapidly paced environment building out features for [Boomerang](https://www.boomerang.com/), [Warner Archive](https://www.warnerarchive.com/), [Moodica](https://www.moodica.com/), and [DramaFever](https://www.dramafever.com/) using Angular.js and Django. While at DramaFever, I have been especially focused on preparing our code base for the lastest version of Angular by following a component model, and driving adoption of the lastest version of JavaScript by leading weekly internal training sessions.
 
 Strengths include:
 
@@ -54,7 +54,7 @@ Experience
 
 - Built out features for the core on-premise solution, and cloud offering, [SparkPost](https://www.sparkpost.com/) utilizing Angular.js and Node.js. 
 - Led migration to ES6 and the official AngularJS style guide.
-- Preparred UI for Angular 2.
+- Prepared UI for Angular 2.
 - Maintained 100% front end and back end test coverage.
 
 ***
@@ -87,7 +87,7 @@ Highlights include:
 ### **Fast Forward Video Inc.** (Irvine, CA)
 #### **Sales and Marketing Administrator, 2012**
 
-- Manage global customer base including and serve as primary Salesfore (CRM) administrator.
+- Manage global customer base including and serve as primary Salesforce (CRM) administrator.
 
 ***
 
