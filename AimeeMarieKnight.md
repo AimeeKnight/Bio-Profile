@@ -8,9 +8,8 @@ AimeeMarieKnight@gmail.com
 [AimeeMarieKnight.com](http://aimeemarieknight.com/)
 
 ***
-Objective
 ---------
-I'm passionately curious about emerging technology, while solidly focused on fundamental principles. As a former professional figure skater, I'm extremely driven, holding myself and the software I write to the highest standards. I enjoy staying active in the JavaScript community through speaking on podcasts, and helping organize meetups and conferences.
+I'm passionately curious about emerging technology, while consistently focused on fundamental principles. As a former professional figure skater, I'm extremely driven, holding myself and the software I write to the highest standards. I enjoy staying active in the JavaScript community through speaking at conferences, podcasting, blogging at [AimeeMarieKnight.com](http://aimeemarieknight.com/)and helping to organize meetups and conferences.
 
 While much of the code I write for my employer is private, my open source software projects can be found on [GitHub](https://github.com/aimeeknight).
 
@@ -47,8 +46,8 @@ Experience
 #### **Full-Stack Software Engineer, 2016**
 
 - Built out features for a higher education curriculum management system using React.js, Redux, and Node.js with Express and Koa.
-- Increasing products reliability and stability by helping to drive adoption of front end test with Enzyme and increasing back end test coverage.
-- Helped implement the latest technologies within code base including WebPack, Flow, ES6 and ES7. 
+- Increasing product reliability and stability by helping to drive adoption of front end test with Enzyme and increasing back end test coverage.
+- Helped implement the latest technologies within the code base including WebPack, Flow, JavaScript 2015 and JavaScript 2016. 
 
 ***
 
