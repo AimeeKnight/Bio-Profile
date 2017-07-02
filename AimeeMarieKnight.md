@@ -18,7 +18,7 @@ Current Summary
 ### **DramaFever** (NYC, NY/Remote)
 #### **Front End Software Engineer, 2016-Present**
 
-As a front end software engineer at DramaFever, I've worked in a rapidly paced environment building out features for [Boomerang](https://www.boomerang.com/), [Warner Archive](https://www.warnerarchive.com/), [Moodica](https://www.moodica.com/), and [DramaFever](https://www.dramafever.com/) using Angular.js and Django. While at DramaFever, I have been especially focused on preparing our code base for the lastest version of Angular by following a component model, and driving adoption of the lastest version of JavaScript by leading weekly internal training sessions.
+As a front end software engineer at DramaFever, I've worked in a rapidly paced environment building out features for [Boomerang](https://www.boomerang.com/), [Warner Archive](https://www.warnerarchive.com/), [Moodica](https://www.moodica.com/), and [DramaFever](https://www.dramafever.com/) using Angular.js and Django. While at DramaFever, I have been especially focused on preparing our code base for the latest version of Angular by following a component model, and driving adoption of the latest version of JavaScript by leading weekly internal training sessions.
 
 Strengths include:
 
