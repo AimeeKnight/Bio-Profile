@@ -7,9 +7,7 @@ Brentwood, TN 37027
 AimeeMarieKnight@gmail.com  
 [AimeeMarieKnight.com](http://aimeemarieknight.com/)
 
-***
----------
-I'm passionately curious about emerging technology, while consistently focused on fundamental principles. As a former professional figure skater, I'm extremely driven, holding myself and the software I write to the highest standards. I enjoy staying active in the JavaScript community through speaking at conferences, podcasting, blogging at [AimeeMarieKnight.com](http://aimeemarieknight.com/)and helping to organize meetups and conferences.
+I'm passionately curious about emerging technology, while consistently focused on fundamental principles. As a former professional figure skater, I'm extremely driven, holding myself and the software I write to the highest standards. I enjoy staying active in the JavaScript community through speaking at conferences, podcasting, blogging at [AimeeMarieKnight.com](http://aimeemarieknight.com/) and helping to organize meetups and conferences.
 
 While much of the code I write for my employer is private, my open source software projects can be found on [GitHub](https://github.com/aimeeknight).
 
