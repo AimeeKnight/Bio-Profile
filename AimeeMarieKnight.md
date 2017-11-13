@@ -1,6 +1,6 @@
 ## Aimee Knight
 
-**Full Stack Engineer**  
+**Full Stack Engineer/Channel Lead**  
 170 Plum Nelly Circle  
 Brentwood, TN 37027  
 (205) 913-4533  
@@ -15,10 +15,10 @@ While much of the code I write for my employer is private, my open source softwa
 Current Summary
 ---------------
 
-### **DramaFever** (NYC, NY/Remote)
-#### **Front End Software Engineer, 2016-Present**
+### **Warner Bros Digital Labs** (NYC, NY/Remote)
+#### **Front End Software Engineer/Channel Lead, 2016-Present**
 
-As a front end software engineer at DramaFever, I've worked in a rapidly paced environment building out features for [Boomerang](https://www.boomerang.com/), [Warner Archive](https://www.warnerarchive.com/), [Moodica](https://www.moodica.com/), and [DramaFever](https://www.dramafever.com/) using Angular.js and Django. While at DramaFever, I have been especially focused on preparing our code base for the latest version of Angular by following a component model, and driving adoption of the latest version of JavaScript by leading weekly internal training sessions.
+As a Front End Software Engineer and Channel Lead at Warner Bros Digital Labs, I've worked in a rapidly paced environment building out features for [Boomerang](https://www.boomerang.com/), [Warner Archive](https://www.warnerarchive.com/), [Moodica](https://www.moodica.com/), and [DramaFever](https://www.dramafever.com/) using Angular.js and Django. While at Warner Bros, I have been especially focused on preparing our code base for the latest version of Angular by following a component model, and driving adoption of the latest version of JavaScript by leading weekly internal training sessions.
 
 Strengths include:
 
