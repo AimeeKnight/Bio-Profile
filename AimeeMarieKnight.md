@@ -1,7 +1,7 @@
 ## Aimee Knight
 
 **Full Stack Engineer/Channel Lead**  
-170 Plum Nelly Circle  
+752 Fox Ridge Drive  
 Brentwood, TN 37027  
 (205) 913-4533  
 AimeeMarieKnight@gmail.com  
@@ -15,10 +15,10 @@ While much of the code I write for my employer is private, my open source softwa
 Current Summary
 ---------------
 
-### **Warner Bros Digital Labs** (NYC, NY/Remote)
-#### **Front End Software Engineer/Channel Lead, 2016-Present**
+### **Built Technologies** (Nashville, TN)
+#### **Full-Stack Software Engineer/2018-Present**
 
-As a Front End Software Engineer and Channel Lead at Warner Bros Digital Labs, I've worked in a rapidly paced environment building out features for [Boomerang](https://www.boomerang.com/), [Warner Archive](https://www.warnerarchive.com/), [Moodica](https://www.moodica.com/), and [DramaFever](https://www.dramafever.com/) using Angular.js and Django. While at Warner Bros, I have been especially focused on preparing our code base for the latest version of Angular by following a component model, and driving adoption of the latest version of JavaScript by leading weekly internal training sessions.
+As a Software Engineer at Built Technologies, I've worked in a rapidly paced startup environment in the fintech space building out features in React.js, Can.js, Node.js, and PHP. While there, I have been especially focused on re-architecting legacy portions of our application, and improving the quality of our deliverables by laying the groundwork needed to implement both end to end and unit testing. 
 
 Strengths include:
 
@@ -39,6 +39,15 @@ Strengths include:
 ***
 Experience
 ---------------
+
+### **Warner Bros Digital Labs** (NYC, NY/Remote)
+#### **Front End Software Engineer/Channel Lead, 2016-2018**
+
+- Built out various properties for Warner Bros. including [Boomerang](https://www.boomerang.com/), [DC Universe](https://www.dcuniverse.com/), [Warner Archive](https://www.warnerarchive.com/), [Moodica](https://www.moodica.com/), and [DramaFever](https://www.dramafever.com/) using Angular.js and Django.
+- Helped prepae the code base for the latest version of Angular by following a component model.
+- Drove adoption of the latest version of JavaScript by leading weekly internal training. 
+
+***
 
 ### **Kuali** (Lehi, UT/Remote)
 #### **Full-Stack Software Engineer, 2016**
