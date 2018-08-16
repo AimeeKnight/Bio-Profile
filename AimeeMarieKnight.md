@@ -7,7 +7,7 @@ Brentwood, TN 37027
 AimeeMarieKnight@gmail.com  
 [AimeeMarieKnight.com](http://aimeemarieknight.com/)
 
-I'm passionately curious about emerging technology, while consistently focused on fundamental principles. As a former professional figure skater, I'm extremely driven, holding myself and the software I write to the highest standards. I enjoy staying active in the JavaScript community as a [Google Developer Expert](https://developers.google.com/experts/people/aimee-knight), speaking at conferences, podcasting, blogging at [AimeeMarieKnight.com](http://aimeemarieknight.com/) and by helping organize meetups and conferences.
+I'm passionately curious about emerging technology, while consistently focused on fundamental principles. As a former professional figure skater, I'm extremely driven, holding myself and the software I write to the highest standards. I enjoy staying active in the JavaScript community as a [Google Developer Expert](https://developers.google.com/experts/people/aimee-knight), [speaking at conferences](http://www.aimeemarieknight.com/about/), [podcasting](http://www.aimeemarieknight.com/about/), blogging at [AimeeMarieKnight.com](http://aimeemarieknight.com/) and by helping organize meetups and conferences.
 
 While much of the code I write for my employer is private, my open source software projects can be found on [GitHub](https://github.com/aimeeknight).
 
@@ -18,7 +18,7 @@ Current Summary
 ### **Built Technologies** (Nashville, TN)
 #### **Full-Stack Software Engineer/2018-Present**
 
-As a Software Engineer at Built Technologies, I've worked in a rapidly paced startup environment in the fintech space building out features in React.js, Can.js, Node.js, and PHP. While there, I have been especially focused on re-architecting legacy portions of our application, and improving the quality of our deliverables by laying the groundwork needed to implement both end to end and unit testing. 
+As a Software Engineer at Built Technologies, I've worked in a rapidly paced startup environment in the fintech space building out features in React.js, Can.js, Node.js, and PHP. While there, I have been especially focused on rearchitecting legacy portions of our application, and improving the quality of our deliverables by laying the groundwork needed to implement both end to end and unit testing. 
 
 Strengths include:
 
@@ -44,7 +44,7 @@ Experience
 #### **Front End Software Engineer/Channel Lead, 2016-2018**
 
 - Built out various properties for Warner Bros. including [Boomerang](https://www.boomerang.com/), [DC Universe](https://www.dcuniverse.com/), [Warner Archive](https://www.warnerarchive.com/), [Moodica](https://www.moodica.com/), and [DramaFever](https://www.dramafever.com/) using Angular.js and Django.
-- Helped prepae the code base for the latest version of Angular by following a component model.
+- Prepared the code base for the latest version of Angular by migrating to a component model.
 - Drove adoption of the latest version of JavaScript by leading weekly internal training. 
 
 ***
