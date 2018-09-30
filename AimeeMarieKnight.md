@@ -7,9 +7,9 @@ Brentwood, TN 37027
 AimeeMarieKnight@gmail.com  
 [AimeeMarieKnight.com](http://aimeemarieknight.com/)
 
-I'm passionately curious about emerging technology, while consistently focused on fundamental principles. As a former professional figure skater, I'm extremely driven, holding myself and the software I write to the highest standards. I enjoy staying active in the JavaScript community as a [Google Developer Expert](https://developers.google.com/experts/people/aimee-knight), [speaking at conferences](http://www.aimeemarieknight.com/about/), [podcasting](http://www.aimeemarieknight.com/about/), blogging at [AimeeMarieKnight.com](http://aimeemarieknight.com/) and by helping organize meetups and conferences.
+I’ve been writing JavaScript professionally for close to five years on both the front and back end, and am heavily involved in the JavaScript ecosystem. While I’m incredibly passionate and excited about what I do with my “Jr. Dev For Life” mentality, I’m also the kind of developer who believes 100% test coverage is really a bare minimum, and that you should “move fast AND fix things”! Additionally, I’m a [Google Developer Expert](https://developers.google.com/experts/people/aimee-knight) in Web Technologies, a weekly panelist on the [JavaScript Jabber](https://devchat.tv/js-jabber/) podcast, an [international keynote speaker](http://www.aimeemarieknight.com/about/), and mentor for various coding boot camps.
 
-While much of the code I write for my employer is private, my open source software projects can be found on [GitHub](https://github.com/aimeeknight).
+While much of the code I write for my employer is private, my open projects can be found on [GitHub](https://github.com/aimeeknight). For a list of my conference talks, blog posts, and podcast interviews, please visit AimeeMarieKnight.com. 
 
 ***
 Current Summary
@@ -18,13 +18,13 @@ Current Summary
 ### **Built Technologies** (Nashville, TN)
 #### **Full-Stack Software Engineer/2018-Present**
 
-As a Software Engineer at Built Technologies, I've worked in a rapidly paced startup environment in the fintech space building out features in React.js, Can.js, Node.js, and PHP. While there, I have been especially focused on rearchitecting legacy portions of our application, and improving the quality of our deliverables by laying the groundwork needed to implement both end to end and unit testing. 
+As a Software Engineer at Built Technologies, I've worked in a rapidly paced startup environment in the fintech space building out features in React, Can, Node, and PHP. While there, I have been especially focused on rearchitecting legacy portions of our application, and improving the quality of our deliverables by laying the groundwork needed to implement both end to end and unit testing. 
 
 Strengths include:
 
 *  Test-driven development
-*  Designing/Writing Front End UI's with Angular.js and React.js
-*  Designing/Writing APIs with Node.js
+*  Designing/Writing Front End UI's with Angular.js and React
+*  Designing/Writing APIs with Node
 *  Staying up to date with the latest technologies and libraries
 *  Mentoring
 *  CSS
@@ -52,7 +52,7 @@ Experience
 ### **Kuali** (Lehi, UT/Remote)
 #### **Full-Stack Software Engineer, 2016**
 
-- Built out features for a higher education curriculum management system using React.js, Redux, and Node.js with Express and Koa.
+- Built out features for a higher education curriculum management system using React, Redux, and Node with Express and Koa.
 - Increasing product reliability and stability by helping to drive adoption of front end test with Enzyme and increasing back end test coverage.
 - Helped implement the latest technologies within the code base including WebPack, Flow, JavaScript 2015 and JavaScript 2016. 
 
@@ -61,7 +61,7 @@ Experience
 ### **Message Systems** (Columbia, MD)
 #### **Full-Stack Software Engineer, 2014-2016**
 
-- Built out features for the core on-premise solution, and cloud offering, [SparkPost](https://www.sparkpost.com/) utilizing Angular.js and Node.js. 
+- Built out features for the core on-premise solution, and cloud offering, [SparkPost](https://www.sparkpost.com/) utilizing Angular.js and Node. 
 - Led migration to ES6 and the official AngularJS style guide.
 - Prepared UI for Angular 2.
 - Maintained 100% front end and back end test coverage.
@@ -77,7 +77,7 @@ Highlights include:
 - Computer Science fundamentals, algorithms, operating systems and security
 - Test-driven development with Rspec & Mocha
 - Ruby * Ruby on Rails with SQLite and PostgreSQL
-- JavaScript & Node.js with MongoDB
+- JavaScript & Node with MongoDB
 - Agile software development & pair-programming
 
 ***
@@ -96,7 +96,7 @@ Highlights include:
 ### **Fast Forward Video Inc.** (Irvine, CA)
 #### **Sales and Marketing Administrator, 2012**
 
-- Manage global customer base including and serve as primary Salesforce (CRM) administrator.
+- Manage global customer base and serve as primary CRM administrator.
 
 ***
 
@@ -126,7 +126,7 @@ Education
 ---------
 
 * **Nashville Software School** Student / Apprentice - Advanced Alpha Group, 2014-2015
-* **University of Massachusetts at Lowell** Bachelor of Science in Information Technology, 2012-Present
+* **University of Massachusetts at Lowell** Bachelor of Science in Information Technology (Continuing Education), 2012-2013
 * **University of Alabama at Birmingham  - Summa Cum Laude** Bachelor of Arts in Communication Management & Mass Communications, 2002-2007
 
 ***
@@ -135,11 +135,13 @@ Skills
 
 *  HTML5, Jade & Haml
 *  CSS3, Less & Sass
-*  Javascript (Including ES6) & jQuery
-*  Angular.js, React.js & Redux
+*  JavaScript (Including ES6) & jQuery
+*  Angular.js, React & Redux
+*  Node
 *  Ruby/Rails with Rspec
 *  Django
-*  Node.js/Express.js with Mocha
+*  Express & Koa
+*  Mocha, Jasmine & Jest
 *  Protractor & Selenium
 *  SQLite, PostgreSQL, MongoDB, RethinkDB, ElasticSearch
 *  Grunt & Gulp
@@ -148,7 +150,7 @@ Skills
 *  Amazon Web Services
 *  TravisCI, Coveralls, & Gemnasium
 *  Wordpress Theme Development
-*  Basic Adobe Photoshop and InDesign
+*  Adobe Photoshop and InDesign
 
 ***
 References
