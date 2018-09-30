@@ -9,7 +9,7 @@ AimeeMarieKnight@gmail.com
 
 I’ve been writing JavaScript professionally for close to five years on both the front and back end, and am heavily involved in the JavaScript ecosystem. While I’m incredibly passionate and excited about what I do with my “Jr. Dev For Life” mentality, I’m also the kind of developer who believes 100% test coverage is really a bare minimum, and that you should “move fast AND fix things”! Additionally, I’m a [Google Developer Expert](https://developers.google.com/experts/people/aimee-knight) in Web Technologies, a weekly panelist on the [JavaScript Jabber](https://devchat.tv/js-jabber/) podcast, an [international keynote speaker](http://www.aimeemarieknight.com/about/), and mentor for various coding boot camps.
 
-While much of the code I write for my employer is private, my open projects can be found on [GitHub](https://github.com/aimeeknight). For a list of my conference talks, blog posts, and podcast interviews, please visit AimeeMarieKnight.com. 
+For a list of my conference talks, blog posts, and podcast interviews, please visit [GitHub](https://github.com/aimeeknight) and [AimeeMarieKnight.com](http://www.aimeemarieknight.com/about/). 
 
 ***
 Current Summary
